@@ -1,0 +1,3 @@
+﻿  CH4.cpp
+C:\Users\ABHINANDAN\Documents\OpenCV\OpenCVCourse\OpenCVCourse\x64\CH4.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenCVCourse.vcxproj -> C:\Users\ABHINANDAN\Documents\OpenCV\OpenCVCourse\x64\Debug\OpenCVCourse.exe
